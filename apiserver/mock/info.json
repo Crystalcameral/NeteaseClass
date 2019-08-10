@@ -1,0 +1,52 @@
+{
+    "userList": [
+        {
+            "id": "",
+            "name": "",
+            // 头像
+            "head": "",
+            "indentList": [
+                {
+                    "classId": "2",
+                    "status": "未支付/交易成功"
+                }
+            ],
+            "cardList": [],
+            "cart": [
+                {
+                    "shopname": "",
+                    "classId": "1",
+                    "img": "",
+                    "price": "122",
+                    "time": "",
+                    "title": "",
+                    "type": ""
+                }
+            ]
+        }
+    ],
+    "goods": [
+        {
+            "imgSrc": "",
+            "id": "",
+            "vedioSrc": "",
+            "newPrice": "",
+            "oldPrice": "",
+            "shopname": "",
+            "type": "金融/编程",
+            "introduce": {
+                "course": {
+                    "imgsrc": "",
+                    "intro": "",
+                    "faceperson":""
+                },
+                "teacher": {
+                    "name": "",
+                    "experience": "在哪个学校毕业，工作经历"
+                }
+            },
+            "catalogue":{},
+            "estimate":{}
+        }
+    ]
+}
